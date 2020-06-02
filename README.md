@@ -13,4 +13,4 @@ Run ```make```, an archive file called ```libft.a``` should compile directly. Pl
 After creating the archive file, ```libft.a``` can be used while compiling other projects.
 
 ## Credits
-I would like to thank [Marvin Gross](https://github.com/zitzak) for being my partner during the ft_print project.
+I would like to thank [Marvin Gross](https://github.com/zitzak) for being my partner during the ft_printf project.

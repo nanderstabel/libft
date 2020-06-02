@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_get_next_line.c                                 :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mgross <mgross@student.codam.nl>             +#+                     */
+/*   By: nstabel <nstabel@student.codam.nl>           +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2019/02/21 14:28:17 by mgross        #+#    #+#                 */
-/*   Updated: 2020/04/12 14:34:32 by nstabel       ########   odam.nl         */
+/*   Created: 2020/06/02 15:10:47 by nstabel       #+#    #+#                 */
+/*   Updated: 2020/06/02 15:10:49 by nstabel       ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
